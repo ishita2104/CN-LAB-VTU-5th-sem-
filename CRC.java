@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.*;
-class Crc1 {
+class CRC {
 
     public static void main(String args[]) {
 
